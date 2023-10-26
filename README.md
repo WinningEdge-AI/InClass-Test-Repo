@@ -3,7 +3,8 @@
 Dylans comment
 
 
-Victor Tian
-I'll insert a cool equation: $\frac{\Sigma}{\delta}$
+Victor Tian 
+
+I'll insert a cool equation: $\nabla \times \textbf{B} = \mu_0 \textbf{J} + \mu_0 \varepsilon \frac{\partial \textbf{E}}{\partial t}$
 
 John was here too.
