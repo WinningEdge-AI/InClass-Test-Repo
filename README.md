@@ -1,11 +1,11 @@
 # Poker-Hands
 
-## Personal Version
-
 Dylans comment
 
 
 Victor Tian 
+
+> This is my personal comment on my fork.
 
 I'll insert a cool equation: $\nabla \times \textbf{B} = \mu_0 \textbf{J} + \mu_0 \varepsilon \frac{\partial \textbf{E}}{\partial t}$
 
