@@ -10,3 +10,5 @@ I'll insert a cool equation: $\nabla \times \textbf{B} = \mu_0 \textbf{J} + \mu_
 This is part of the Maxwell Equation.
 
 John was here too.
+
+This is a test of the john_test_branch
