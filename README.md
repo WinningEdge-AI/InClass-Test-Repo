@@ -1,7 +1,6 @@
-# Poker-Hands <br>
+# Poker-Hands
 
-<br>
-<br>
-<br>
+Victor Tian
+I'll insert a cool equation: $\frac{\Sigma}{\delta}$
 
-This is the project for CSE583: Software Development for Data Scientists
+John was here too.
